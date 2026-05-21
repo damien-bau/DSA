@@ -3,9 +3,7 @@ Leetcode ###
 https://leetcode.com/problems/remove-element/description/
 */
 
-#include <iostream>
 #include <vector>
-#include <algorithm>
 
 using std::vector;
 
